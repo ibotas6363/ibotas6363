@@ -1,102 +1,101 @@
-MemoryPatch::createWithHex("libanogs.so", 0xB9727E, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB96502, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB9F056, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB96692, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB9F8A8, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB9CEC6, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB9AFAC, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB9E5BA, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB9A158, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB9B62A, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB9CA6E, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB9AB92, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB98330, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB9761C, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB9BAAC, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB97754, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB9955E, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB9D1B0, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB961E0, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB9D02C, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB9AAAE, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB962C4, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB9E392, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB9B3D8, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB9E4B8, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB9DDA4, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xBA0AD8, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB9AEDE, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB9F0C8, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB9AE9A, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB9E89C, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xBA09E6, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB9C47C, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB9E8E0, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB983D2, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB9BFDC, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB9FD9A, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB9B1EE, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB9ED5A, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB9B698, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB9D98A, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB97C98, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB9F9A6, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB9A7C6, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB98BF4, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB97D94, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB97970, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB96EB8, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB97874, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB9AA68, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xBA0CFC, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB9879A, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB960E2, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB96172, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB9CC08, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB9FE32, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB9B254, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB9DF1A, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB989EE, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB99976, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB99878, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB9C66E, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB9EECC, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB95F58, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB96FE4, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB9DB9E, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xBA0C92, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB9FB26, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB98476, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB9E75A, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB9DCF2, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB970C4, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB9911E, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB97152, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB98B0E, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB98B92, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB9B7B2, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB970D4, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB9C8BE, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB96254, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB992B8, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB99EE4, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB9827C, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB98FB0, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xBA0432, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB9AD64, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB96B88, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB99AF6, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB99594, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB9FB9E, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xBA0536, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB96F72, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB999B6, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB9B826, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB99054, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB9F0F6, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB9F832, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB96738, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xBA0236, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB9A960, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-MemoryPatch::createWithHex("libanogs.so", 0xB9CACA, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
-
+Tools::WriteAddr((void *) (libanogs.so + 0xB9727E), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB96502), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB9F056), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB96692), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB9F8A8), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB9CEC6), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB9AFAC), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB9E5BA), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB9A158), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB9B62A), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB9CA6E), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB9AB92), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB98330), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB9761C), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB9BAAC), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB97754), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB9955E), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB9D1B0), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB961E0), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB9D02C), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB9AAAE), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB962C4), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB9E392), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB9B3D8), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB9E4B8), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB9DDA4), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xBA0AD8), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB9AEDE), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB9F0C8), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB9AE9A), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB9E89C), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xBA09E6), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB9C47C), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB9E8E0), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB983D2), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB9BFDC), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB9FD9A), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB9B1EE), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB9ED5A), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB9B698), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB9D98A), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB97C98), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB9F9A6), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB9A7C6), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB98BF4), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB97D94), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB97970), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB96EB8), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB97874), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB9AA68), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xBA0CFC), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB9879A), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB960E2), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB96172), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB9CC08), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB9FE32), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB9B254), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB9DF1A), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB989EE), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB99976), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB99878), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB9C66E), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB9EECC), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB95F58), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB96FE4), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB9DB9E), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xBA0C92), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB9FB26), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB98476), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB9E75A), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB9DCF2), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB970C4), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB9911E), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB97152), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB98B0E), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB98B92), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB9B7B2), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB970D4), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB9C8BE), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB96254), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB992B8), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB99EE4), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB9827C), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB98FB0), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xBA0432), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB9AD64), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB96B88), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB99AF6), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB99594), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB9FB9E), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xBA0536), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB96F72), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB999B6), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB9B826), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB99054), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB9F0F6), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB9F832), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB96738), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xBA0236), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB9A960), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+Tools::WriteAddr((void *) (libanogs.so + 0xB9CACA), (void *) "C0 03 5F D6", 4);//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
