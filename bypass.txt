@@ -99,3 +99,4 @@ MemoryPatch::createWithHex("libanogs.so", 0xB96738, "C0 03 5F D6", 32).Modify();
 MemoryPatch::createWithHex("libanogs.so", 0xBA0236, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
 MemoryPatch::createWithHex("libanogs.so", 0xB9A960, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
 MemoryPatch::createWithHex("libanogs.so", 0xB9CACA, "C0 03 5F D6", 32).Modify(); //@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass v5❗
+
