@@ -28,36 +28,219 @@ MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C2F9A, OBFUSCATE("
 MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C3418, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
 MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C41B8, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
 MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C3BDC, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
-MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0x30EB60, OBFUSCATE("00 20 70 47")).Modify();
-MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0x268C94, OBFUSCATE("00 20 70 47")).Modify();
-MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0x254076, OBFUSCATE("00 20 70 47")).Modify();
-MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0x2325B4, OBFUSCATE("00 20 70 47")).Modify();
-MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0x30EB60, OBFUSCATE("00 20 70 47")).Modify();
-MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0x268C94, OBFUSCATE("00 20 70 47")).Modify();
-MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0x254076, OBFUSCATE("00 20 70 47")).Modify();
-MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0x2325B4, OBFUSCATE("00 20 70 47")).Modify();
-MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0xA8274, OBFUSCATE("00 20 70 47")).Modify();
-MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0xA82A8, OBFUSCATE("00 20 70 47")).Modify();
-MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0xABC38, OBFUSCATE("00 20 70 47")).Modify();
-MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0xD0C10, OBFUSCATE("00 20 70 47")).Modify();
-MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0x12F53C, OBFUSCATE("00 00 50 E3")).Modify();
-MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0x15EC28, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();
-MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0x15ECF8, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();
-MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0x285FEA, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();
-PATCH_LIB("libanogs.so", "0x16A22C", "00 48 2D E9");
-PATCH_LIB("libanogs.so", "0x11C184", "00 48 2D E9");
-PATCH_LIB("libanogs.so", "0x30D564", "01 20 51 E2");
-PATCH_LIB("libanogs.so", "0x1EA58C", "00 48 2D E9");
-PATCH_LIB("libanogs.so", "0x121BF8", "F0 4F 2D E9");
-PATCH_LIB("libanogs.so", "0x128C58", "70 4C 2D E9");
-PATCH_LIB("libanogs.so", "0x12F508", "00 48 2D E9");
-PATCH_LIB("libanogs.so", "0x1318E4", "00 48 2D E9");
-PATCH_LIB("libanogs.so", "0x131C28", "00 48 2D E9");
-PATCH_LIB("libanogs.so", "0x1335CC", "30 48 2D E9");
-PATCH_LIB("libanogs.so", "0x15EBF8", "00 48 2D E9");
-PATCH_LIB("libanogs.so", "0x164C2C", "30 48 2D E9");
-PATCH_LIB("libanogs.so", "0x16C158", "10 4C 2D E9");
-PATCH_LIB("libanogs.so", "0x16E41C", "F0 48 2D E9");
-PATCH_LIB("libanogs.so", "0x1750F8", "00 48 2D E9");
-PATCH_LIB("libanogs.so", "0x1785F4", "30 48 2D E9");
-PATCH_LIB("libanogs.so", "0x1C36D8", "30 48 2D E9");
+
+Tools::WriteAddr((void *) (UE4 + 0x1bbbd01), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x19909b1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x10a0991), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x187f3b1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x1343361), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x1b71111), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x19a6041), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x12e0b61), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x1128d61), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x10acb51), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x1ce7a61), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x12c37e1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x177c521), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x1343361), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x1c76191), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x1b20391), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x1c8c981), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x29955f1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x2bc1121), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x290b9b1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x2828641), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x2a8d721), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x25e4401), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x22919d1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x21ee111), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x291b7c1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x2b00911), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x26f1511), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x2cb6401), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x2c57411), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x3195161), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x396eb71), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x35a0ce1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x36a49e1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x352df11), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x3eddbb1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x36b1f61), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x3637661), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x3fb40b1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x3a26411), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x4579d21), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x41ee581), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x44a4521), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x4361961), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x41deb61), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x4d7f161), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x4c3f2d1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x6b3d8d1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x6af46a1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x6fdb0e1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x6db2361), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x6d09db1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x6ce57c1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x6e3a6c1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x7196fd1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x7107281), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x78d9521), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x735f991), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x79af301), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x7588b51), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x77dde91), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x75b7121), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x78e4d8a), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+
+//V2
+Tools::WriteAddr((void *) (UE4 + 0x10e7d11), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x11acbe1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x1186de1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x11c3f11), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x11ec8f1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x1246801), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x13ecfb1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x1411831), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x1504d51), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x15dbdd1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x15f9cc1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x1649b01), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x1649fa1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x16a0681), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x16a5891), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x174c831), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x17c46e1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x1850501), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x1886901), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x1900ca1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x1afb521), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x1b74581), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x1ba98d1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x1c49071), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x1c4baf1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x1c565c1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x1ccf0d1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x1d2f4b1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x1d630c1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x1d71f01), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x1dfb4f1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x1dfa711), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x1dacbb1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x1e0e811), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x1f6d3c1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x1fb51d1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x1fe9831), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x1ffde91), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x2022a81), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x20c5b01), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x21243c1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x22154a1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x22396e1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x22c6251), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x234d6b1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x235c3b1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x2411211), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x24665f1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x2502491), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x2504931), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x2512811), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x2558751), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x255adc1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x261a671), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x2648dc1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x266f661), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x267ae41), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x28403b1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x284b091), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x286b8d1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x287d5a1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x28a5711), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x28e1d81), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x29fd2e1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x2a538e1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x2a78241), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x2ab34c1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x2bac531), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x2bd4151), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x2b9f0a1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x2b84ae1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x2c32db1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x2c3b461), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x2d0a191), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x2d014e1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x2e0fe11), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x2e416a1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x2e68501), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x2eece61), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x30acd51), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x305f021), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x3073c01), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x3110971), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x3155dc1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x30d85d1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x3268fa1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x327afa1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x336a9d1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x33b65f1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x35521e1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x3594a61), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x362a081), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x3634871), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x36497d1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x36ee971), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x36be801), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x3734911), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x376b241), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x3797df1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x37d9651), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x380d4c1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x38b35f1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x3834d91), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x3886881), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x3879ad1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x38c7851), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x3a23321), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x3a7d851), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x3b230d1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x3b8a931), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x3badc41), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x3c57151), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x3c5a731), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x3caa0d1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x3d36aa1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x3d7e161), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x3e55ac1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x3ec87f1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x3f850c1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x3ff78e1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x40cda61), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x4017071), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x4044fe1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x4142c51), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x426e801), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x42eca91), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x436d071), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x4352bf1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x4432d81), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x4503931), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x453bf61), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x4631ed1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x4634bb1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x45ef8a1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x4685261), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x4759261), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x48131f1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x49c6a81), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x49643b1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x4a2b0d1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x4a4b611), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x4a66301), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x4b4cea1), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x4bd4921), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x4be1291), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x4ce0051), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x4d48a71), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x4e2ed31), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x4e3bb91), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x4e74090), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1, 8); // Find By @Stellop
