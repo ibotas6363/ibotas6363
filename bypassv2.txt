@@ -1,0 +1,166 @@
+MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C32EC, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C38D8, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C3C6C, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C38B4, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C3DF6, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C37F2, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C3F48, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C3816, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C386A, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C3444, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C306C, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C35FE, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C32D0, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C3A5E, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C3144, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C389A, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C348A, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C33D8, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C403A, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C324E, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C31EA, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C3CE4, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C3784, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C3D60, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C4020, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C3CC6, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C2F9A, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C3418, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C41B8, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C3BDC, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libUE4.so"), 0x5008D2, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libUE4.so"), 0x500F88, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libUE4.so"), 0x500C08, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libUE4.so"), 0x5009F6, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libUE4.so"), 0x500A7C, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libUE4.so"), 0x5005CC, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libUE4.so"), 0x500736, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libUE4.so"), 0x500614, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libUE4.so"), 0x500920, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libUE4.so"), 0x50064C, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libUE4.so"), 0x500BB2, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libUE4.so"), 0x500FE2, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libUE4.so"), 0x500B06, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libUE4.so"), 0x500B4C, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libUE4.so"), 0x501024, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libUE4.so"), 0x500C3A, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libUE4.so"), 0x500C70, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libUE4.so"), 0x500C1C, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libUE4.so"), 0x5009CA, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libUE4.so"), 0x50117C, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libUE4.so"), 0x5006A6, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libUE4.so"), 0x5011CC, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libUE4.so"), 0x500EE2, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libUE4.so"), 0x500CC6, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libUE4.so"), 0x500838, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libUE4.so"), 0x500F44, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libUE4.so"), 0x501052, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libUE4.so"), 0x500F02, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libUE4.so"), 0x5011DC, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libUE4.so"), 0x500E4C, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libgcloud.so"), 0x8B2798, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libgcloud.so"), 0x8B2B02, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libgcloud.so"), 0x8B2D76, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libgcloud.so"), 0x8B2878, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libgcloud.so"), 0x8B28E2, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libgcloud.so"), 0x8B2EF6, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libgcloud.so"), 0x8B2F18, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libgcloud.so"), 0x8B2CD0, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libgcloud.so"), 0x8B2A0C, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libgcloud.so"), 0x8B28FE, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libgcloud.so"), 0x8B28BC, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libgcloud.so"), 0x8B2D20, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libgcloud.so"), 0x8B27F2, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libgcloud.so"), 0x8B280E, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libgcloud.so"), 0x8B2E52, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libgcloud.so"), 0x8B2782, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libgcloud.so"), 0x8B2AE0, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libgcloud.so"), 0x8B2DFC, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libgcloud.so"), 0x8B25BE, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libgcloud.so"), 0x8B270E, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libgcloud.so"), 0x8B2756, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libgcloud.so"), 0x8B2670, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libgcloud.so"), 0x8B29AE, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libgcloud.so"), 0x8B30AA, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libgcloud.so"), 0x8B2564, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libgcloud.so"), 0x8B2C4A, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libgcloud.so"), 0x8B26C4, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libgcloud.so"), 0x8B295C, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libgcloud.so"), 0x8B2932, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libgcloud.so"), 0x8B2BBC, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0x6FEC34, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0x6FF48A, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0x6FF54E, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0x6FEC56, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0x6FEE6E, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0x6FEE4E, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0x6FF006, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0x6FEF38, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0x6FF1D8, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0x6FED94, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0x6FF306, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0x6FED2C, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0x6FF06E, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0x6FED66, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0x6FEFBA, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0x6FEE3C, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0x6FEF7A, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0x6FF57E, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0x6FECA6, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0x6FEDA6, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0x6FF53E, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0x6FECE2, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0x6FF428, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0x6FEEE6, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0x6FF142, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0x6FF742, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0x6FF3E2, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0x6FF092, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0x6FF0E2, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0x6FF128, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGVoiceNN.so"), 0x4570BA, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGVoiceNN.so"), 0x4570DE, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGVoiceNN.so"), 0x456E6E, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGVoiceNN.so"), 0x4570FA, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGVoiceNN.so"), 0x4574F4, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGVoiceNN.so"), 0x4575D4, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGVoiceNN.so"), 0x45752A, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGVoiceNN.so"), 0x457324, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGVoiceNN.so"), 0x457478, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGVoiceNN.so"), 0x457684, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGVoiceNN.so"), 0x457710, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGVoiceNN.so"), 0x457004, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGVoiceNN.so"), 0x4572FE, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGVoiceNN.so"), 0x457382, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGVoiceNN.so"), 0x457498, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGVoiceNN.so"), 0x456EE2, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGVoiceNN.so"), 0x45719E, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGVoiceNN.so"), 0x4576C4, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGVoiceNN.so"), 0x456D5C, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGVoiceNN.so"), 0x456FE4, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGVoiceNN.so"), 0x45743E, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGVoiceNN.so"), 0x456CBC, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGVoiceNN.so"), 0x456CDC, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGVoiceNN.so"), 0x457426, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGVoiceNN.so"), 0x457616, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGVoiceNN.so"), 0x456CFC, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGVoiceNN.so"), 0x456DD8, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGVoiceNN.so"), 0x45766E, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGVoiceNN.so"), 0x456E4C, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libGVoiceNN.so"), 0x456E02, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0x30EB60, OBFUSCATE("00 20 70 47")).Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0x268C94, OBFUSCATE("00 20 70 47")).Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0x254076, OBFUSCATE("00 20 70 47")).Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0x2325B4, OBFUSCATE("00 20 70 47")).Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0x30EB60, OBFUSCATE("00 20 70 47")).Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0x268C94, OBFUSCATE("00 20 70 47")).Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0x254076, OBFUSCATE("00 20 70 47")).Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0x2325B4, OBFUSCATE("00 20 70 47")).Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0xA8274, OBFUSCATE("00 20 70 47")).Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0xA82A8, OBFUSCATE("00 20 70 47")).Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0xABC38, OBFUSCATE("00 20 70 47")).Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0xD0C10, OBFUSCATE("00 20 70 47")).Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0x12F53C, OBFUSCATE("00 00 50 E3")).Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0x15EC28, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0x15ECF8, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0x285FEA, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();
