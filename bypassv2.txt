@@ -198,3 +198,33 @@ MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0xF58DCA  , OBFUSCATE("00 2
 MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0xF6A0A2  , OBFUSCATE("00 20 70 47")).Modify();
 MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0xFE17F6  , OBFUSCATE("00 20 70 47")).Modify();
 MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0xFEAA54, OBFUSCATE("00 20 70 47")).Modify();
+
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0xC134A, OBFUSCATE("00 20 70 47")).Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0xC1CD0, OBFUSCATE("00 20 70 47")).Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0xC1D06, OBFUSCATE("00 20 70 47")).Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0xE61CE, OBFUSCATE("00 20 70 47")).Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0xE61A2, OBFUSCATE("00 20 70 47")).Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0xE624A, OBFUSCATE("00 20 70 47")).Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0xE6618, OBFUSCATE("00 20 70 47")).Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0xE673A, OBFUSCATE("00 20 70 47")).Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0x56EFC, OBFUSCATE("00 20 70 47")).Modify(); // ASGRD2_0
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0xF6956, OBFUSCATE("00 20 70 47")).Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0xF6A14, OBFUSCATE("00 20 70 47")).Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0xF6A34, OBFUSCATE("00 20 70 47")).Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0xF70D6, OBFUSCATE("00 20 70 47")).Modify(); // PC
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0xF70EE, OBFUSCATE("00 20 70 47")).Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0xF7106, OBFUSCATE("00 20 70 47")).Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0xF7162, OBFUSCATE("00 20 70 47")).Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0xF716C, OBFUSCATE("00 20 70 47")).Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0xF71BE, OBFUSCATE("00 20 70 47")).Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0xF8972, OBFUSCATE("00 20 70 47")).Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0xF8A74, OBFUSCATE("00 20 70 47")).Modify();
+MemoryPatch::createWithHex(OBFUSCATE("libanogs.so"), 0xF8A78, OBFUSCATE("00 20 70 47")).Modify();
+
+PATCH_LIB("libanogs.so", "0xBCA38", "00 20 70 47");
+PATCH_LIB("libanogs.so", "0xBE838", "00 20 70 47");
+PATCH_LIB("libanogs.so", "0xC0DC6", "00 20 70 47"); // 10 year fix
+PATCH_LIB("libanogs.so", "0xC1C80", "00 20 70 47");
+PATCH_LIB("libanogs.so", "0xC1D78", "00 20 70 47");
+PATCH_LIB("libanogs.so", "0xE321C", "43 EC 30 2B"); // VMOV
+PATCH_LIB("libanogs.so", "0xE662C", "00 20 70 47");
