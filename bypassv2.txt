@@ -1,531 +1,100 @@
-MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C32EC, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
-MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C38D8, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
-MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C3C6C, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
-MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C38B4, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
-MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C3DF6, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
-MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C37F2, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
-MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C3F48, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
-MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C3816, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
-MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C386A, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
-MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C3444, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
-MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C306C, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
-MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C35FE, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
-MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C32D0, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
-MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C3A5E, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
-MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C3144, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
-MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C389A, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
-MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C348A, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
-MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C33D8, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
-MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C403A, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
-MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C324E, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
-MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C31EA, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
-MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C3CE4, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
-MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C3784, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
-MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C3D60, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
-MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C4020, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
-MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C3CC6, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
-MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C2F9A, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
-MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C3418, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
-MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C41B8, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
-MemoryPatch::createWithHex(OBFUSCATE("libGCloudVoice.so"), 0x1C3BDC, OBFUSCATE("00 00 A0 E3 1E FF 2F E1")).Modify();//@ibohackturkiyevipbypass🇹🇷🧑🏻‍💻⚡🚀ibohackturkiyee free bypass❗
-MemoryPatch::createWithHex("libanogs.so", 0xF4DFA4, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xF7FFE2, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x6D5B8A, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xC2FFE2, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xC8404, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xD8F5F4, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xA4976A, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x39CF98, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x67FF76, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x6CA12C, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x7A3908, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x621398, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x91C126, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xA35CA6, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x7D3990, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xA58D54, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xBD0D2C, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xC8D376, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x879C0C, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x815934, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x1DB2A4, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x6D1BDA, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x895F0C, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x1EA330, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x9C37F6, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x474DA8, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xD4D874, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x9030DC, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xA3F802, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xBE6946, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x674376, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x8F1CCC, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x531186, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xA67E68, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xAD86C0, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x3BE538, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x1825A8, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xC11FD8, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x26C0F8, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x867496, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xB9EE4E, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xC9510, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x45F56C, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x7FE756, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x461F54, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xC3530A, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x71E5C8, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x67A4DA, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x6A4AA2, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xC855EA, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x3AE64A, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xBB2DEE, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x8DD936, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xD86A1A, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x7954D6, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xFD686A, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x9DF7E2, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xFA2930, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x1B0F70, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x7E0FE4, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x459A90, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x865E02, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xDE2E3A, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x8CD156, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x4E6190, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xE2EE68, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xAB6F1A, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x988AFE, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x54BF62, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xBFB32, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xFA4F6C, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x2A3580, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x15DB2, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x6042E8, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x6CA6F2, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x6BFA56, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x9EB45E, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xAE0384, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xD8B2C, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xA4F246, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xE70480, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x2B97DA, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xA2FF8A, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x380A80, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xEB60A, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x4C9832, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x750556, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x39326C, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x77F4DE, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x6F15A0, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xE9A28A, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x89B4EE, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x145B24, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x97824C, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xE8E7F8, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x426D52, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x8A9BE, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x9232A8, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x8DAFD2, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xF6A1C, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xEE8224, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xB291A2, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xBE1AE8, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x1BCE2E, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xBEC5B2, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x900A7A, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x498148, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x2FECEE, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x251150, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x515B66, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x2A21CC, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x43797C, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x9FD6A2, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x6B4CD6, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x545756, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xF6F6DE, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x7CDB04, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xBF6EF6, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x162A92, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xA8EEA, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x96E116, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xF951B6, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xEB93EC, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x4C9976, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x7A7348, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xB30106, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xF78F72, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x6C6014, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xE95272, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x872DEE, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x4D83D8, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x693036, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x3BEE8C, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xCA3BE4, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x42FB22, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xE9EC82, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xEE80A4, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x39F172, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x4350BC, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x831900, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x1796A0, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xABA194, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x310E78, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xCBBFF4, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xD6220A, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x9364D2, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xEDDCE0, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xB003D4, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x78D5EC, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x535B32, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xE46B56, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x727EEC, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xA95472, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x11663A, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x342A7C, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x5DBE4, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xF9E380, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xFFB68C, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x52D834, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x21D56C, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xEDD444, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x43C112, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x23580C, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x716AF8, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x832C8, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x9CB02C, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x55062, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x39E08E, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x28A3FA, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x5A72F4, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x18E5FE, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x2BC576, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xC372F4, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x15487E, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x6FF574, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x54CA9C, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x1336B6, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x591B34, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x7A6C00, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x3535A, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xAD1B8, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xD83458, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x6C0BAA, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x8824, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x1457AA, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x9E3B2E, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x38F148, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xD27F2C, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x486130, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xF6B09A, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x4DB0E8, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xA8A88A, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xA9EE42, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xB46A1E, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x83079A, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x55446C, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x5E92C0, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x4C7D8C, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x4098A2, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x6FDA1C, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xFC6602, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x2F6AD2, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x92A5F6, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xFB82CA, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x2BAB1C, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x8CCB8, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xD78106, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x90A8E, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xEC1E30, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x1F5A5E, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x98D71E, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xC4ABF8, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x6EC912, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x8A8760, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xCE42D8, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xF3525A, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x877A06, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xFDB3F2, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x70C6A6, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x944120, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x822FC8, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x21B042, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xF88DA0, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xD50E82, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x5594AC, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x5B1308, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x217E3A, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x4E6EFC, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xB2AA16, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xEC17D0, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x74EC10, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xEC611C, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x86C69C, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x15AF32, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x87175E, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xD42B4E, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xDE163E, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x8601A8, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xB3EE40, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xE2A2CE, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x287080, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x152D94, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xE697E6, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xB2CD5A, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x849A26, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x7BFE2, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xE23E98, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x3F0436, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0xB544F0, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-MemoryPatch::createWithHex("libanogs.so", 0x40181C, "00 00 A0 E3 1E FF 2F E1").Modify(); //Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x634F6E2), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xC1467F6), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x98FE6AA), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x90AC86E), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xB936696), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xC3848CC), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xF29B7A2), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xD2852EC), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x6123E7A), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xD383E06), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x4F2BD0), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xBF0C3BC), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x49E9B0A), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x7F1C3B4), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x9F9886), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x11CDFBC), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x3DAB3FA), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x8AF6B2E), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x6F7CBF6), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xD2B0B6), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xF9BB9AA), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xC2C631A), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xD90E426), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x6EE81F8), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x7D60D74), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xF7DE48C), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x1E0E65E), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xE1C8410), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x72C9856), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x9EC8E7A), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xC550866), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xE664AFA), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xA894C18), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xE678050), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x6EA3ACA), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xAE5872), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xFDE1B1A), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x43476B8), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x80221F6), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x3EA1F98), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x158A56), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x553C1F2), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x784CD40), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x1DCAB0), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xE085C84), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x240C792), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xA5EA7C6), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x4E63028), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x186A418), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x53D3D2C), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x107B11A), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xFFDEE3E), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x2B95136), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x964BEAA), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x639ABBA), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x7D0254C), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x33CBCAE), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x282F09A), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x9A8A40C), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x4B33414), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xD6ECFE2), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xB786C2E), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xABA7D30), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x521AC7E), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xABEF05A), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xBFDC136), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x3B92582), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x8376C7C), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xD235E48), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x772BB54), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x59D712E), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x769AE), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x25B5580), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x98444EE), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xAFB8B14), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x8CF7E5A), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xECA77FA), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x76E2014), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x7E64C7C), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x9CA0A48), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x649373C), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xD441AD6), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xDCFD7C2), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xDDC1F36), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xA39BE48), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xB6E83FC), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x3570D0A), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x8D4B524), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xF61E3D6), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x86C594C), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xA4CBFF0), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xE5F0DF6), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x34EE8BC), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x7CC780A), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xCE50780), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x93560B2), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xB562978), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x35F4C82), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x1607DA6), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x80975B0), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x9792DBA), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x49301E2), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x686B5A8), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xD023D50), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x5E892D6), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x9312C9E), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xC024F48), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x5A9D59E), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x5871EFA), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x6E70440), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xC5C543C), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x304632C), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x36DF4DE), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x7E24D4A), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xA55C5A), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x779F13A), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x88881A2), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xDC66A76), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x214D626), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xA3213A4), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x6C04C1E), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xF86F6EA), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x2D3D2CE), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xFAAE6F6), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xA0454F2), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x8B39ED8), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x120A9A), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x185D0D8), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x687E598), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x9F17B42), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xC3800D6), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x3D8E54), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xEB8815A), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x9E0C9E4), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xAEDC8D0), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x17F7E68), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x69266C0), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x7CFED04), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xEE063CE), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xBA3024), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xF2393C8), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xB991E7C), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x880516E), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x81FA5D2), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x9047A7C), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x8DFB2C4), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x1FDCE06), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xA17F7E2), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xAE53F44), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x8691144), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x8729B70), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x365246C), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x47AFF22), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x6BC9752), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xF589D3A), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xCDED548), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xDAEE000), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xBFB8D06), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xEF2843A), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xF3366DC), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x60B79FA), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x591E810), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x215FC48), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x2280796), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x25F2776), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xE269A94), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x9502E92), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x9594692), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xDE348A0), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x2AADCAA), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x80B2B7C), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x4C224DA), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x5B56854), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x526B18C), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x412A7CA), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x726D7F0), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x771FE76), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x4EFA8C4), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x980520E), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x61AAC68), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x7A87F18), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x75070A6), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xDECE8F6), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x193716E), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x50D2DDA), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xEDE78AE), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x418DC7A), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x13C4080), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x4AF1C5A), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x45ADED6), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xC696386), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x27E335E), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xA3AA9C), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xB232492), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x9382A64), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xECD52C4), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x9C7A62C), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x66F5D8E), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x62C4870), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xC2D2DAA), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xD83D04), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x439725A), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x2F4E41C), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xAC7DB4C), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x2730D30), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x31BA692), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x15FFCEE), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x782FAF2), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xA445226), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x279E9EC), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x6401CF0), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x64A9692), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x4E9A75E), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x91E9A38), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x463FC06), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x2FBE966), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x3849702), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x7DDEF8), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xCBC20B0), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xD13A038), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x594D5A6), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xAB4F9EE), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x6A49480), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xBE51932), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xFF77F80), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xC3CA9BA), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x17BDEEA), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x86726D8), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x9D61DF8), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x23B8168), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x6965B1E), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xCD0A08C), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xDA9DF94), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x1FE9FE4), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xFFB7B62), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x50709DA), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x572D7A4), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xFFA2CE6), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x3D9603A), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x6525C98), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x26531DC), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x64F8278), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x483E328), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x4558D48), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x839448C), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xEC3DCB2), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x68BE68), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x59C26A6), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0x3A79666), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-Tools::WriteAddr((void *) (UE4 + 0xD5B8D82), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
-
+Tools::WriteAddr((void *) (UE4 + 0x106C498  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x14643F0A  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x1808FB6C  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x1F823A72  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x271E0B1E  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x2723D872  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x277CC4B2  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x2A67BA9A  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x2BAE0BF8  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x2CADEF7C  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x306AD4BA  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x314AB3F8  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x31C696C8  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x3249166C  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x33E5222A  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x37D900C2  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x3B50FA94  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x41490FBA  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x43814DD8  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x4401578A  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x44166726  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x4A2D0EA6  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x4C3C636A  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x4C8B476A  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x4F0A2C3E  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x54F427A8  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x57A113B6  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x5932FC0A  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x59BC07EA  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x5D077E9C  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x5DD61296  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x5DE939DA  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x5FB8F686  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x5FC3612C  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x6982A954  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x6E9C1094  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x700F7764  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x7214B238  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x72242666  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x7313AB8  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x7721C7F4  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x77A13922  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x7D3EA19E  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x7DA3AA84  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x80874CE0  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x846E0512  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x85412FA  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x899F1B08  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x8A54B1EC  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x8ABA90E0  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x8F5EEA2E  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x90A219F6  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x917C2EC4  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x938E79AE  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x98A1CC20  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x98DE7F56  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x9D5C999C  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0x9ED71BF4  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0xA04BC308  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0xA140DB4  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0xA4ADECB2  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0xA6C59A1C  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0xAA22ECA6  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0xAAAA0352  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0xABD0C0C6  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0xADA5617A  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0xAD13CF4E  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0xAE3FAA44  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0xB2D2DEA4  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0xB59A9622  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0xB5DB2740  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0xBABE2B3C  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0xBACCB2AA  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0xBC09FF08  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0xC062F908  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0xC0CB7C22  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0xC17EBCEC  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0xC22D7F26  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0xC236BA04  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0xC854521A  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0xCE36CBB0  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0xCF99934E  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0xD0045A30  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0xD22172D2  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0xD46EB08A  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0xD697FE20  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0xD93A2D50  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0xE0C6AB98  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0xE1812C22  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0xE61376CC  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0xE9676C34  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0xEB2940F2  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0xEDBFBEF2  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0xF15CBC66  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0xF5D8B9A6  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0xF67D2DE6  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0xF68C8C0E  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0xF9E0443E  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0xFA947CEA  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
+Tools::WriteAddr((void *) (UE4 + 0xFBEB6D8E  ), (void *) "\x00\x00\xA0\xE3\x1E\xFF\x2F\xE1", 8); // Find By @Stellop
